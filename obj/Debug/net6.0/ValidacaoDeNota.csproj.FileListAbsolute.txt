@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\bin\Debug\net6.0\ValidacaoDeNota.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\refint\ValidacaoDeNota.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ValidacaoDeNota.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\ValidacaoDeNota\obj\Debug\net6.0\ref\ValidacaoDeNota.dll
